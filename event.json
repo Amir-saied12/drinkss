@@ -1,0 +1,90 @@
+[
+    [
+        {
+            "img_1":"./img/bot1.jpg",
+            "img_2":"./img/bot2.jpg",
+            "img_3":"./img/bot3.jpg",
+            "img_4":"./img/bot4.jpg",
+            "img_5":"./img/bot5.jpg"
+        }
+    ],
+    
+    [
+        {
+            "span_sbs":"Get Updates",
+            "h2_sbs":"Stay In Touch With Updates"
+        }
+    ],
+    
+    [
+        {
+            "logo":"./img/logo.png",
+            "h2_1":"Call us",
+            "span_1":"+01 315 0006 565"
+        },
+        {
+            "h2_2":"Address",
+            "span_2":"Canal View Socity JzStreet La 0005846"
+        },
+        {
+            "h2_3":"Email",
+            "span_3":"support@jzpub.com"
+        },
+        {
+            "copy":"Jz Pub © 2021 All Rights Reserved <span>Terms of Use</span> and <span>Privacy Policy</span>"
+        }
+    ],
+
+    [
+        {
+            "li_1":"home",
+            "li_2":"abouts",
+            "li_3":"events",
+            "li_4":"menu",
+            "logo":"./img/logo.png"
+        },
+        {
+            "li_1":"pages",
+            "li_2":"blog",
+            "li_3":"contact"
+        }
+    
+    ],
+
+    [
+        {
+            "h2":"EVENTS",
+            "p_1":"HOME",
+            "p_12":"EVENT"
+        }
+    ],
+
+    [
+        {
+            "h2_span":"Our Events",
+            "h2":"UP COMMING EVENTS PARTYES",
+            "p":"This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. "
+        },
+        {
+            "img":"./img/event-img.jpg",
+            "h3_a":"Jz Pub Weekend Party",
+            "p":"Lorem ipsum dolor sit amet, sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "li_1":"0 <br> <p>hrs</p>",
+            "li_2":"0 <br> <p>min</p>",
+            "li_3":"0 <br> <p>sec</p>"
+        },
+        {
+            "p":"May 28 2021   08 : 00 Pm  To  03 : 00 Am",
+            "a":"View map",
+            "i_1":"16",
+            "i":"13",
+            "btn":"View Detials"
+        },
+        {
+            "li_1":"wedding party",
+            "li_2":"birthday party",
+            "li_3":"beach party",
+            "li_4":"outher party"
+        }
+    ]
+]

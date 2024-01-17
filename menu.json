@@ -1,0 +1,105 @@
+[
+    [
+        {
+            "h2":"MENU",
+            "p_1":"HOME",
+            "p_12":"MENU"
+        }
+    ],
+
+    [
+        {
+            "li_1_slide":"Jungle Bird",
+            "li_2_slide":"White Lady",
+            "li_3_slide":"Cosmopolitan",
+            "li_4_slide":"Hanky Panky",
+            "li_5_slide":"Bowmore"
+        },
+        {
+            "p_slide":"Wytrawna Whisky",
+            "span_slide":"Jungle Bird",
+            "p_2_slide":"This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+        },
+        {
+            "li_txt_span_1":"Jungle Bird ---------- 100 ml",
+            "li_txt_p_1":"Includes dry vermouth and olive brine shaken with ice and served with an olive",
+            "h5_cash":"$ 15.00",
+    
+            "li_txt_span_2":"Jungle Bird ---------- 150 ml",
+            "li_txt_p_2":"Includes dry vermouth and olive brine shaken with ice and served with an olive",
+            "h5_cash_2":"$ 20.00",
+    
+            "li_txt_span_3":"Jungle Bird ---------- 200 ml",
+            "li_txt_p_3":"Includes dry vermouth and olive brine shaken with ice and served with an olive",
+            "h5_cash_3":"$ 25.00"
+        },
+        {
+            "img":"./img/tab-style-2-img-1.png"
+        }
+    ],
+
+    [
+        {
+            "mid_1":"Jz pub",
+            "mid_12":"A Gin",
+            "mid_123":"Whiskey"
+        },
+        {
+            "p1_mid":"Our Contact Information &amp;",
+            "p2_mid":"+01 - 315 - 0006 565"
+        },
+        {
+            "p1_end":"Canal View Society Jz",
+            "p2_end":"Street La 0005846"
+        }
+    ],
+
+    [
+        {
+            "logo":"./img/logo.png",
+            "h2_1":"Call us",
+            "span_1":"+01 315 0006 565"
+        },
+        {
+            "h2_2":"Address",
+            "span_2":"Canal View Socity JzStreet La 0005846"
+        },
+        {
+            "h2_3":"Email",
+            "span_3":"support@jzpub.com"
+        },
+        {
+            "copy":"Jz Pub © 2021 All Rights Reserved <span>Terms of Use</span> and <span>Privacy Policy</span>"
+        }
+    ],
+    
+    [
+        {
+            "li_1":"home",
+            "li_2":"abouts",
+            "li_3":"events",
+            "li_4":"menu",
+            "logo":"./img/logo.png"
+        },
+        {
+            "li_1":"pages",
+            "li_2":"blog",
+            "li_3":"contact"
+        }
+
+    ],
+
+    [
+        {
+          "h2_span":"Our Special Menu",  
+          "h2":"MAKING THE BEST BEER POSSIBLE",  
+          "img":"./img/menu-tab-img-1.png"
+        },
+        {
+            "li_1":"Beer Cocktails",
+            "li_2":"Scotch Whiskey",
+            "li_3":"Long drinks",
+            "li_4":"Bar food"
+        }
+    ]
+]

@@ -1,0 +1,59 @@
+.menu{
+    height: auto;
+    background-image: url(../../img/inner-banner.jpg);
+    padding: 140px 0;
+    background-repeat: no-repeat;
+}
+.menu h2{
+    font: 400 48px/48px 'Montserrat', sans-serif;
+    color: #fff;
+    margin: 0 0 10px 0;
+    text-align: center;
+    display: block;
+}
+/*                                      */
+
+.beerss{
+    height: auto;
+    background-image: url(../../img/welcome-bg.jpg);
+    background-color: black;
+}
+.beerss .bottom-list::before{
+    content: "";
+    background-image: url(../../img/tab-style-1-bg.jpg);
+    position: absolute;
+    left: 0;
+    bottom: 117px;
+    width: 100%;
+    z-index: 99;
+    height: 76px;
+}
+.beerss h2:nth-child(2){
+    display: block;
+    text-align: center;
+    font: 300 30px/30px 'Open Sans', sans-serif;
+    color: #ccc;
+    text-transform: uppercase;
+    padding: 0 0 20px 0;
+}
+.beerss .bottom-list{
+    position: relative;
+    bottom: -48px;
+    padding: 0 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 21px;
+    margin-bottom: 0;
+    z-index: 99;
+    background-color: #1f1f1f;
+}
+.beerss ul li a{
+    font-size: 30px;
+    padding: 30px 80px;
+    text-align: center;
+    display: block;
+    transition: all .5s;
+}
+.beerss ul li a:hover{
+    color: #c5a059;
+}

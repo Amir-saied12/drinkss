@@ -1,0 +1,49 @@
+.about{
+    height: auto;
+    background-image: url(../../img/inner-banner-2.jpg);
+    padding: 160px 0;
+}
+.about h2{
+    font: 400 48px/48px 'Montserrat', sans-serif;
+    color: #fff;
+    margin: 0 0 10px 0;
+    text-align: center;
+    display: block;
+}
+/*                                      */
+
+.midd{
+    height: auto;
+    background-color: black;
+    background-image: url(../../img/welcome-bg.jpg);
+    background-repeat: no-repeat;
+}
+.midd h2:nth-child(2){
+    display: block;
+    text-align: center;
+    font: 300 30px/30px 'Open Sans', sans-serif;
+    color: #ccc;
+    text-transform: uppercase;
+    padding: 0 0 20px 0;
+}
+.midd p.text-center{
+    font: 400 16px/28px 'Open Sans', sans-serif;
+}
+.midd .img_2{
+    width: 30%;
+    margin: 30px auto;
+    transition: all .5s;
+}
+.midd .img_2:hover{
+    transform: translateY(-15px);
+}
+.midd .beer::before {
+    content: '';
+    background: #000 url(../../img/tab-style-1-bg.jpg) no-repeat center bottom;
+    position: absolute;
+    left: 0;
+    bottom: -25px;
+    width: 100%;
+    height: 76px;
+    z-index: 1;
+}

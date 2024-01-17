@@ -1,0 +1,408 @@
+.bg-Home .carousel-caption p{
+    font: 300 30px/30px 'Oswald', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+}
+.bg-Home .carousel-caption h1{
+    font: 400 60px/50px 'Montserrat', sans-serif;
+    color: #fff;
+    margin: 0 0 15px 0;
+    line-height: 1.5;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1;
+}
+.bg-Home .carousel-caption b{
+    color: #c5a059;
+    position: absolute;
+    left: 46%;
+    top: -8%;
+    font-weight: 700;
+    font-size: 130px;
+    display: block;
+    text-align: center;
+    z-index: -1;
+}
+/*                                          */
+
+.welcome{
+    background-image: url(../../img/welcome-bg.jpg);
+    height: auto;
+}
+.welcome .text-wel span, h3, p{
+    text-align: left;
+}
+.welcome .text-wel p{
+    font: 400 16px/28px 'Open Sans', sans-serif;
+    margin: 0px;
+    color: #ccc;
+}
+.welcome .text-wel h3{
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 34px;
+}
+.welcome .img-wel img{
+    animation-name: Updown;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes Updown {
+    0% {
+        transform: translate(0px, 0px);
+    }
+    65% {
+        transform: translate(0px, 17px);
+    }
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
+.welcome .el7rkh::after{
+    content: "";
+    background: url(../../img/key-bg.png )no-repeat center top;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: 55px;
+    width: 76px;
+    height: 179px;
+}
+.welcome .text-side strong{
+    font: 400 20px 'Open Sans', sans-serif;
+    color: #fff;
+    display: block;
+    padding: 0 0 10px 0;
+}
+.welcome .text-side p{
+    font: 400 16px/28px 'Open Sans', sans-serif;
+    margin: 0px;
+    color: #ccc;
+}
+.welcome .text-side {
+    margin: 20px 0;
+}
+/*                                          */
+
+.beer{
+    padding-bottom: 0;
+    position: relative;
+    background: #000;
+}
+.beer .card, .bottle-beer{
+    position: relative;
+    z-index: 2;
+}
+.beer .card{
+    margin-bottom: 20px;
+}
+.beer::before{
+    content: '';
+    background: #000 url(../../img/tab-style-1-bg.jpg) no-repeat center bottom;
+    position: absolute;
+    left: 0;
+    bottom: 112px;
+    width: 100%;
+    height: 76px;
+    z-index: 1;
+}
+.beer .card-body{
+    background-color: #1f1f1f;
+}
+.beer .card-body p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2.1;
+}
+.beer .card-body h2 a{
+    font: 400 24px 'Open Sans', sans-serif;
+    color: #fff;
+    margin: 0 0 10px 0;
+    transition: all .5s;
+}
+.beer .img-beer img{
+    transition: all .5s;
+}
+.beer .card:hover h2 a{
+    color: #c5a059;
+}
+.beer .card:hover img{
+    transform: scale(1.1);
+}
+.beer .bottom-jocker{
+    background-color: #c5a059;
+}
+.beer .bottom-jocker ul li a{
+    color: #1f1f1f;
+    letter-spacing: 2px;
+    font-size: 14px;
+    padding: 10px;
+    transition: all .5s;
+}
+.beer .bottom-jocker:hover ul li a{
+    color: white;
+}
+.beer .bottom-list{
+    position: relative;
+    padding: 0 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 21px;
+    margin-bottom: 0;
+    z-index: 99;
+    background-color: #1f1f1f;
+}
+.beer ul li a{
+    font-size: 30px;
+    padding: 30px 80px;
+    text-align: center;
+    display: block;
+    transition: all .5s;
+}
+.beer ul li a:hover{
+    color: #c5a059;
+}
+/*                                          */
+
+.slide-beer{
+    padding-bottom: 0;
+    position: relative;
+    background: #000;
+}
+.slide-beer .borderes{
+    border-right: 1px solid #c5a059;
+}
+.slide-beer .slide-bottom{
+    font: 400 24px/24px 'Open Sans', sans-serif;
+    display: block;
+    text-transform: uppercase;
+    padding: 25px 0 25px 18px;
+    position: relative;
+    color: #c5a059;
+}
+.slide-beer li .slide-bottom:hover{
+    background-color: #151515;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+}
+
+.slide-beer .img-slide{
+    transition: all .5s;
+}
+.slide-beer .img-slide:hover{
+    transform: translateY(-15px);
+}
+.slide-beer .box .title{
+    display: block;
+    font: 300 30px 'Open Sans', sans-serif;
+    color: #ccc;
+}
+.slide-beer .box span{
+    font: 400 60px 'DancingScript', cursive;
+    margin: 0 0 6px 0;
+    letter-spacing: -1px;
+}
+.slide-beer .box .title2{
+    font: 400 16px/28px 'Open Sans', sans-serif;
+    margin: 0px;
+    color: #ccc;
+}
+.slide-beer .box .txt span{
+    padding: 0 0 7px 0;
+    font: 400 18px 'Open Sans', sans-serif;
+    text-align: start;
+}
+.slide-beer .box .cash h5{
+    font: 400 24px/24px 'Open Sans', sans-serif;
+    color: #fff;
+    padding: 10px 0 0 0;
+}
+/*                                          */
+
+.middle{
+    height: auto;
+    background-image: url(../../img/paralex-section-bg.jpg);
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+.middle span{
+    text-align: center;
+    font: 400 100px 'DancingScript', cursive;
+    padding: 0 0 30px 0;
+}
+.middle .mt8yar{
+    color: white;
+}
+.middle .icon-mid{
+    display: flex;
+    align-items: center;
+}
+.middle .icon-mid i{
+    font-size: 45px;
+    border: 1px solid #c5a059;
+    border-radius: 50%;
+    padding: 20px;
+    display: inline-block;
+}
+.middle .icon-mid p{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 10px;
+}
+/*                                      */
+
+.event p strong{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+    color: #ccc;
+}
+.event h2 span{
+    text-align: center;
+    font-size: 56px;
+    font-weight: 400;
+}
+.event p{
+    text-align: center;
+    font: 400 16px/28px 'Open Sans', sans-serif;
+    margin: 0px;
+    color: #ccc;
+}
+.event .links a{
+    font: italic 200 24px 'Open Sans', sans-serif;
+    color: #ccc;
+    position: relative;
+    display: inline-block;
+    border: #c5a059;
+}
+/*                                      */
+
+.gallery .image-bottom{
+    width: 20%;
+    position: relative;
+}
+.gallery .image-bottom{
+    transition: all .5s;
+}
+.gallery .image-bottom:hover{
+    transform: translateY( -70px );
+}
+.gallery .image-bottom .overley i{
+    color: #ffffff;
+    background-color: #000;
+    border-radius:50% ;
+    padding: 15px;
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+    margin: 0 5px;
+    text-align: center;
+    transition: all .5s;
+    position: relative;
+    z-index: 99;
+    opacity: 0;
+}
+.gallery .image-bottom:hover .overley i{
+    opacity: 1;
+}
+.gallery .image-bottom .overley i:hover{
+    color: #c5a059;
+}
+.gallery .image-bottom .overley span{
+    width: 22%;
+}
+.gallery .image-bottom .overley{
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+}
+.gallery .image-bottom .overley::after{
+    content: "";
+    position: absolute;
+    bottom: -20%;
+    height: 50%;
+    width: 100%;
+    right: 0;
+    opacity: 0;
+    background-color: #c59f59;
+    transition: all .5s;
+}
+.gallery .image-bottom .overley::before{
+    content: "";
+    position: absolute;
+    top: -20%;
+    height
+    : 50%;
+    width: 100%;
+    left: 0;
+    opacity: 0;
+    background-color: #c59f59;
+    transition: all .5s;
+}
+.gallery .image-bottom:hover .overley::after{
+    opacity: 0.8;
+    bottom: 0;
+}
+.gallery .image-bottom:hover .overley::before{
+    opacity: 0.8;
+    top: 0;
+}
+.gallery .image-bottom .overley .rott{
+    transform: rotate(0deg);
+    position: relative;
+    z-index: 99;
+    inset: 0;
+    transition: all .5s;
+}
+.gallery .image-bottom:hover .overley .rott{
+    transform: rotate(90deg);
+}
+/*                                      */
+
+.sbs span{
+    font-size: 30px;
+}
+.sbs h2{
+    font-size: 36px;
+    font-weight: 400;
+}
+.sbs form input[type="text"]{
+    border: 1px solid #c59f59;
+    width: 100%;
+    height: 50px;
+    background: none;
+    padding: 0 15px;
+    color: #fff;
+}
+.sbs form input[type="submit"]{
+    background-color: #c5a059;
+    position: absolute;
+    right: 71px;
+    border: 0;
+    height: 50px;
+    padding: 0 20px;
+    font: 100 18px 'Open Sans', sans-serif;
+    color: #222;
+    text-transform: uppercase;
+    transition: all .5s;
+}
+.sbs form input[type="submit"]:hover{
+    background-color: #ccc;
+}
+.sbs form input:focus{
+    border: 1px solid #fff;
+}
+
+/*        (: finnsh :)           */
+/*      =>  amir saied  <=       */
+/*          (: Home :)           */

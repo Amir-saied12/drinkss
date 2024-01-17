@@ -1,0 +1,93 @@
+[
+    [
+        {
+            "p_event_1":"Jz event",
+            "h2_event_1":"Ucoming Events",
+            "p_event_2":"We’ve rounded up our favorite website designs for bakeries, fast-casual restaurants and neighborhood spots. Now, we’re back with our top bar websites, including those with commerce tools that drive additional high-margin revenue like online ordering, merchandise and gift cards. Belly up to these great designs. "
+        },
+        {
+            "a_event_1":"View Events",
+            "a_event_2":"book Events"
+        }
+    ],
+    
+    [
+        {
+            "img_1":"./img/bot1.jpg",
+            "img_2":"./img/bot2.jpg",
+            "img_3":"./img/bot3.jpg",
+            "img_4":"./img/bot4.jpg",
+            "img_5":"./img/bot5.jpg"
+        }
+    ],
+    
+    [
+        {
+            "span_sbs":"Get Updates",
+            "h2_sbs":"Stay In Touch With Updates"
+        }
+    ],
+    
+    [
+        {
+            "logo":"./img/logo.png",
+            "h2_1":"Call us",
+            "span_1":"+01 315 0006 565"
+        },
+        {
+            "h2_2":"Address",
+            "span_2":"Canal View Socity JzStreet La 0005846"
+        },
+        {
+            "h2_3":"Email",
+            "span_3":"support@jzpub.com"
+        },
+        {
+            "copy":"Jz Pub © 2021 All Rights Reserved <span>Terms of Use</span> and <span>Privacy Policy</span>"
+        }
+    ],
+    
+    [
+        {
+            "li_1":"home",
+            "li_2":"abouts",
+            "li_3":"events",
+            "li_4":"menu",
+            "logo":"./img/logo.png"
+        },
+        {
+            "li_1":"pages",
+            "li_2":"blog",
+            "li_3":"contact"
+        }
+    
+    ],
+
+    [
+        {
+            "h2":"ABOUT US",
+            "p_1":"HOME",
+            "p_12":"ABOUT"
+        }
+    ],
+
+    [
+        {
+            "h2_span":"Have Your Next Function",
+            "h2":"MAKING THE BEST BEER POSSIBLE",
+            "p":"Whether you’re at Dante to drink a negroni via a porrón — the infamous Spanish drinking vessel — or to converse over a few afternoon spritzes’ with friends, Dante’s two West Village locations are a must-visit in New York City. Rated the world’s best bar in 2019, Dante is a modern-day icon in the bar world. There’s no reason why their website would be anything short of world-class. Dazzling photographs of craft cocktails across a minimalist design.",
+            "img":"./img/about-img-1.png"
+        },
+        {
+            "h2_span":"Bartenders",
+            "h2":"MEET THE TEAM" ,
+            "img_1":"./img/tab-img-1.jpg",
+            "h2_card":"EVERY SATURDAY NIGHTS",
+            "p_card":"Lorem ipsum dolor sit amet, sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam",
+            "li_1":"16",
+            "li_2":"0",
+            "li_3":"03",
+            "img_2":"./img/tab-img-2.jpg"
+        }
+    ]
+]

@@ -1,0 +1,64 @@
+header{
+    width: 100%;
+    background: #000;
+    border-bottom: 2px solid #c5a059;
+}
+header .logo{
+    position: absolute;
+    margin: auto;
+    width: 228px;
+    left: 0;
+    right: 0;
+    z-index: 9;
+    top: -20px;
+}
+header .navbar-nav{
+    height: 69px;
+}
+header .nav-item{
+    padding: 16px;
+}
+header .nav-item a.nav-link{
+    font: 400 14px/14px 'Open Sans', sans-serif;
+    color: #ccc;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0 27px;
+    display: block;
+    position: relative;
+    z-index: 20;
+}
+header .dropp{
+    position: absolute;
+    left: 16%;
+    top: 47px;
+    width: 190px;
+    background: #fff;
+    padding: 0;
+    border: 1px solid;
+    display: none;
+    z-index: 99999;
+    border: 1px solid #c5a059;
+}
+header .hov:hover > .dropp{
+    display: block;
+}
+header .dropp li{
+    padding: 14px 0;
+    border: 1px solid #c5a059;
+}
+header .dropp li a.nav-link{
+    color: #000;
+}
+header .dropp li{
+    width: 0;
+    height: 100%;
+    transition: all .5s;
+}
+header .dropp li:hover{
+    background: #c5a059;
+    width: 100%;
+}
+header .nav-item .nav-link span i{
+    font-size: 15px;
+}

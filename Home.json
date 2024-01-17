@@ -1,0 +1,169 @@
+[
+    [
+        {
+            "title_wel":"Welcome!",
+            "title_h3_wel":"Making the best beer possible",
+            "title_p_wel":"Beciegast nveriti vitaesaert asety kertya aset aplicaboserde nerorem asipsumod itaut. Monsequntur magni dolores eonqui ratione voluptate msequise kertyias nesciunt, neque porro quisquam seridolore nuyfasas. Vertyu erauas aitaesa ertyasneo eniptaiades.",
+            "title_img":"./img/welcome-img.png"
+        },
+        {
+            "title_txt_wel":"Jz In Reality",
+            "txt_2_wel":"NIGHT OUT 01",
+            "txt_p_wel":"Logical problems and puzzles. No physical effort . Only wit and observation. Everything is in your head.",
+
+            "txt_2_mid":"02    music",
+            "txt_mid_p":"Exactly 1 hour to find a way out and get out of the quest of the room , thinking all the fun and interesting puzzles on your heroic journey.",
+            
+            "txt_2_mid2":"SMOKE AREA    03",
+            "txt_mid2_p":"For the whole family and for your friends ! Your team - the key to a successful passing game . Trust and partner nayditie output. ",
+
+            "txt_2_end":"04    IMPRESSION",
+            "txt_end_p":"This is an unforgettable adventure in the exciting world of mystery. Only positive emotions and vivid feeling for the entire company. "
+        }
+    ],
+
+    [
+        {
+            "img_beer":"./img/tab-img-1.jpg",
+            "h2_card_beer":"EVERY SATURDAY NIGHTS",
+            "p_card_beer":"Lorem ipsum dolor sit amet, sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "li_1_card":"16",
+            "li_2_card":"0",
+            "li_3_card":"03",
+            "img_2_beer":"./img/tab-img-2.jpg"
+        },
+        {
+            "img_2_beer":"./img/02_home_06.png"
+        },
+        {
+            "ul_0_bot":"Beer Cocktails",
+            "ul_1_bot":"Scotch Whiskey",
+            "ul_2_bot":"Long drinks",
+            "ul_3_bot":"Bar food"
+        }
+    ],
+
+    [
+        {
+            "li_1_slide":"Jungle Bird",
+            "li_2_slide":"White Lady",
+            "li_3_slide":"Cosmopolitan",
+            "li_4_slide":"Hanky Panky",
+            "li_5_slide":"Bowmore"
+        },
+        {
+            "p_slide":"Wytrawna Whisky",
+            "span_slide":"Jungle Bird",
+            "p_2_slide":"This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+        },
+        {
+            "li_txt_span_1":"Jungle Bird ---------- 100 ml",
+            "li_txt_p_1":"Includes dry vermouth and olive brine shaken with ice and served with an olive",
+            "h5_cash":"$ 15.00",
+
+            "li_txt_span_2":"Jungle Bird ---------- 150 ml",
+            "li_txt_p_2":"Includes dry vermouth and olive brine shaken with ice and served with an olive",
+            "h5_cash_2":"$ 20.00",
+
+            "li_txt_span_3":"Jungle Bird ---------- 200 ml",
+            "li_txt_p_3":"Includes dry vermouth and olive brine shaken with ice and served with an olive",
+            "h5_cash_3":"$ 25.00"
+        },
+        {
+            "img":"./img/tab-style-2-img-1.png"
+        }
+    ],
+
+    [
+        {
+            "mid_1":"Jz pub",
+            "mid_12":"A Gin",
+            "mid_123":"Whiskey"
+        },
+        {
+            "p1_mid":"Our Contact Information &amp;",
+            "p2_mid":"+01 - 315 - 0006 565"
+        },
+        {
+            "p1_end":"Canal View Society Jz",
+            "p2_end":"Street La 0005846"
+        }
+    ],
+
+    [
+        {
+            "p_event_1":"Jz event",
+            "h2_event_1":"Ucoming Events",
+            "p_event_2":"We’ve rounded up our favorite website designs for bakeries, fast-casual restaurants and neighborhood spots. Now, we’re back with our top bar websites, including those with commerce tools that drive additional high-margin revenue like online ordering, merchandise and gift cards. Belly up to these great designs. "
+        },
+        {
+            "a_event_1":"View Events",
+            "a_event_2":"book Events"
+        }
+    ],
+
+    [
+        {
+            "img_1":"./img/bot1.jpg",
+            "img_2":"./img/bot2.jpg",
+            "img_3":"./img/bot3.jpg",
+            "img_4":"./img/bot4.jpg",
+            "img_5":"./img/bot5.jpg"
+        }
+    ],
+
+    [
+        {
+            "span_sbs":"Get Updates",
+            "h2_sbs":"Stay In Touch With Updates"
+        }
+    ],
+
+    [
+        {
+            "img_1":"./img/banner-img-1.jpg",
+            "img_2":"./img/banner-img-2.jpg",
+            "img_3":"./img/banner-img-3.jpg",
+            "p_bg_1":"Orignal taste • since 1982",
+            "span_bg":"Premiucccxcvm Quality",
+            "h1_bg_1":"Treats, Fun Memories",
+            "h1_bg_12":"love",
+            "p_bg_2":"For Friends Saya"
+        }
+    ],
+
+    [
+        {
+            "logo":"./img/logo.png",
+            "h2_1":"Call us",
+            "span_1":"+01 315 0006 565"
+        },
+        {
+            "h2_2":"Address",
+            "span_2":"Canal View Socity JzStreet La 0005846"
+        },
+        {
+            "h2_3":"Email",
+            "span_3":"support@jzpub.com"
+        },
+        {
+            "copy":"Jz Pub © 2021 All Rights Reserved <span>Terms of Use</span> and <span>Privacy Policy</span>"
+        }
+    ],
+    
+    [
+        {
+            "li_1":"home",
+            "li_2":"abouts",
+            "li_3":"events",
+            "li_4":"menu",
+            "logo":"./img/logo.png"
+        },
+        {
+            "li_1":"pages",
+            "li_2":"blog",
+            "li_3":"contact"
+        }
+
+    ]
+]

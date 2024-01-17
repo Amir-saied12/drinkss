@@ -1,0 +1,174 @@
+.eventss{
+    height: auto;
+    background-image: url(../../img/inner-banner-9.jpg);
+    padding: 140px 0;
+    background-repeat: no-repeat;
+}
+.eventss h2{
+    font: 400 48px/48px 'Montserrat', sans-serif;
+    color: #fff;
+    margin: 0 0 10px 0;
+    text-align: center;
+    display: block;
+}
+/*                                      */
+
+.beerss2 p.text-center{
+    font: 400 16px/28px 'Open Sans', sans-serif;
+    margin: 0px;
+    color: #ccc;
+}
+.beerss2 .card{
+    background: #1f1f1f;
+}
+.beerss2 .card .img-event img{
+    transition: all .5s;
+    position: relative;
+    z-index: 1;
+}
+.beerss2 .card .img-event img:hover{
+    transform: scale(1.1);
+    filter: brightness(0.7);
+}
+.beerss2 .card .card-body h3 a span{
+    font: 400 24px/24px 'DancingScript', cursive;
+    color: #ccc;
+    margin: 0 0 20px 0;
+}
+.beerss2 .card .card-body .pragraph p{
+    text-align: left;
+    font: 400 16px/28px 'Open Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #777;
+}
+.beerss2 .card .card-body ul.d-flex li{
+    background: #c5a059;
+    float: left;
+    margin: 0 30px 0 0;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    height: 90px;
+    width: 86px;
+}
+.beerss2 .card .card-body ul.d-flex li p{
+    color: white;
+    text-align: center;
+    font-size: 26px;
+}
+.beerss2 .card .bottom-body{
+    background-color: #c5a059;
+    padding: 15px;
+}
+.beerss2 .card .bottom-body .rtl p{
+    display: inline-block;
+    font: 400 18px/18px 'Open Sans', sans-serif;
+    color: #222;
+    padding: 10px 0;
+}
+.beerss2 .card .bottom-body .rtl a{
+    font: 400 18px/18px 'Open Sans', sans-serif;
+    color: #222;
+    padding: 10px 0;
+    margin: 0 0 0 20px;
+}
+.beerss2 .card .bottom-body .rtl a:hover{
+    text-decoration: underline !important;
+}
+.beerss2 .card .bottom-body .ltr i{
+    color: #ffffff;
+    font-size: 12px;
+    padding: 0 8px;
+}
+.beerss2 .card .bottom-body .ltr button{
+    font: 300 16px/16px 'Open Sans', sans-serif;
+    color: #fff;
+    padding: 14px 20px;
+    text-transform: uppercase;
+    border: none;
+    background: #1f1f1f;
+    margin: 0 0 0 30px;
+}
+.beerss2 .bottom-list::before {
+    content: "";
+    background-image: url(../../img/tab-style-1-bg.jpg);
+    position: absolute;
+    left: 0;
+    bottom: 127px;
+    width: 100%;
+    height: 59px;
+}
+/*                                          */
+
+.event-2 .card{
+    background-color: #000;
+}
+.event-2 .card .cardbody{
+    padding: 48px 25px 30px 14px;
+    position: relative;
+    background-color: #c5a059;
+}
+.event-2 .card .cardbody h2{
+    font: 400 24px/24px 'Open Sans', sans-serif;
+    color: #222;
+    text-transform: uppercase;
+    margin: 0 0 20px 0;
+}
+.event-2 .card .cardbody p{
+    font: 400 16px/28px 'Open Sans', sans-serif;
+    margin-bottom: 32px;
+    color:#000;
+}
+.event-2 .card .cardbody h4{
+    position: absolute;
+    top: 0;
+    right: 30px;
+    background: #1f1f1f;
+    color: #c5a059;
+    text-align: center;
+    display: block;
+    font: 400 32px/28px 'Open Sans', sans-serif;
+    padding: 5px 10px 0px 10px;
+}
+.event-2 .card .cardbody h4 p{
+    color: #c5a059;
+    font-size: 36px;
+}
+.event-2 .card .t7t{
+    background-color: #c5a059;
+}
+.event-2 .card .t7t p{
+    font-size: 13px;
+    font-weight: 100;
+    margin-bottom: 0;
+}
+.event-2 .card .t7t ul li i{
+    color: #000;
+}
+.event-2 .card .t7t .ltr a{
+    display: inline-block;
+    width: 145px;
+    height: 45px;
+    background: #1f1f1f;
+    font: 400 14px/45px 'Open Sans', sans-serif;
+    color: #ccc;
+    text-align: center;
+    text-transform: uppercase;
+}
+.car-2{
+    background-color: #777 !important;
+}
+.car-2 .hh{
+    color: #ffffffa1 !important;
+}
+.car-2 .hh p{
+    color: #ffffffa1 !important;
+}
+.event-2 .card .img-ev img{
+    transition: all .5s;
+}
+.event-2 .card .img-ev img:hover{
+    transform: scale(1.1);
+    filter: brightness(0.6);
+}

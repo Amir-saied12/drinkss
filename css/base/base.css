@@ -1,0 +1,51 @@
+@import url(./font.css);
+@import url(../vendor/animate.css);
+@import url(../vendor/bootstrap.min.css);
+img{
+    width: 100%;
+    display: block;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none !important;
+}
+ul{
+    list-style-type: none;
+}
+h1, h2, h3, h4, h5, h6{
+    font: 400 24px 'Montserrat', sans-serif;
+    color: white;
+    font-weight: 500;
+    line-height: 1.1;
+}
+p, a, article{
+    font: 400 16px/28px 'Open Sans', sans-serif;
+    margin: 0px;
+    color: #ccc;
+}
+span{
+    font-family:'DancingScript',cursive;
+    font-size: 48px;
+    font-weight: 400;
+    display: block;
+    text-align: center;
+    padding: 0 0 15px 0;
+    color: #c5a059;
+}
+.mo5talef{
+    font: 400 23px/30px 'DancingScript', cursive !important;
+    display: block;
+    text-align: center;
+    padding: 0 0 15px 0;
+}
+header .active{
+    padding: 0 27px !important;
+    background-color: #cccccc30;
+}
+/*fixed*/
+
